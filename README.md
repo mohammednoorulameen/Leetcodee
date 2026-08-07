@@ -35,4 +35,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/mohammednoorulameen/Leetcodee/tree/main/0496-next-greater-element-i/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1844-replace-all-digits-with-characters](https://github.com/mohammednoorulameen/Leetcodee/tree/main/1844-replace-all-digits-with-characters/) | Easy |
 <!---LeetCode Topics End-->
