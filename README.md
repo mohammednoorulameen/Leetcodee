@@ -10,11 +10,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/mohammednoorulameen/Leetcodee/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0066-plus-one](https://github.com/mohammednoorulameen/Leetcodee/tree/main/0066-plus-one/) | Easy |
 | [0496-next-greater-element-i](https://github.com/mohammednoorulameen/Leetcodee/tree/main/0496-next-greater-element-i/) | Easy |
+| [2053-kth-distinct-string-in-an-array](https://github.com/mohammednoorulameen/Leetcodee/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mohammednoorulameen/Leetcodee/tree/main/0001-two-sum/) | Easy |
 | [0496-next-greater-element-i](https://github.com/mohammednoorulameen/Leetcodee/tree/main/0496-next-greater-element-i/) | Easy |
+| [2053-kth-distinct-string-in-an-array](https://github.com/mohammednoorulameen/Leetcodee/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,4 +41,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1844-replace-all-digits-with-characters](https://github.com/mohammednoorulameen/Leetcodee/tree/main/1844-replace-all-digits-with-characters/) | Easy |
+| [2053-kth-distinct-string-in-an-array](https://github.com/mohammednoorulameen/Leetcodee/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2053-kth-distinct-string-in-an-array](https://github.com/mohammednoorulameen/Leetcodee/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
