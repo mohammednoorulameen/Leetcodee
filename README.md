@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mohammednoorulameen/Leetcodee/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/mohammednoorulameen/Leetcodee/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0048-rotate-image](https://github.com/mohammednoorulameen/Leetcodee/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/mohammednoorulameen/Leetcodee/tree/main/0066-plus-one/) | Easy |
 | [0496-next-greater-element-i](https://github.com/mohammednoorulameen/Leetcodee/tree/main/0496-next-greater-element-i/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/mohammednoorulameen/Leetcodee/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/mohammednoorulameen/Leetcodee/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/mohammednoorulameen/Leetcodee/tree/main/0066-plus-one/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -46,4 +48,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2053-kth-distinct-string-in-an-array](https://github.com/mohammednoorulameen/Leetcodee/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/mohammednoorulameen/Leetcodee/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
