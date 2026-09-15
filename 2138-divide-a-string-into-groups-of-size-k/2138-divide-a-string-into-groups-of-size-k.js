@@ -4,16 +4,16 @@
  * @param {character} fill
  * @return {string[]}
  */
-var divideString = function(s, k, fill) {
-    
+var divideString = function (s, k, fill) {
+
     let arr = [];
     let str = ""
     let count = 0;
-    for(let i = 0; i < s.length; i++){
+    for (let i = 0; i < s.length; i++) {
         str += s[i];
         console.log(str)
         count++;
-        if(count == k){
+        if (count == k) {
             console.log('check this working ')
             arr.push(str)
             str = ""
@@ -21,14 +21,14 @@ var divideString = function(s, k, fill) {
         }
     }
 
-    if(str.length > 0){
-        while(str.length < k){
-         str += fill;
-    }
-    arr.push(str)
+    if (str.length > 0) {
+        while (str.length < k) {
+            str += fill;
+        }
+        arr.push(str)
     }
 
-return arr
- console.log(arr)
+    return arr
+    console.log(arr)
 
 };
