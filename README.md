@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1844-replace-all-digits-with-characters](https://github.com/mohammednoorulameen/Leetcodee/tree/main/1844-replace-all-digits-with-characters/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/mohammednoorulameen/Leetcodee/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/mohammednoorulameen/Leetcodee/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,4 +70,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/mohammednoorulameen/Leetcodee/tree/main/0075-sort-colors/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/mohammednoorulameen/Leetcodee/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
 <!---LeetCode Topics End-->
