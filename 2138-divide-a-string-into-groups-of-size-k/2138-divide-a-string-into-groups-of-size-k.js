@@ -10,9 +10,7 @@ var divideString = function (s, k, fill) {
     let str = ""
     for (let i = 0; i < s.length; i++) {
         str += s[i];
-        console.log(str)
         if (str.length == k) {
-            console.log('check this working ')
             arr.push(str)
             str = ""
         }
@@ -26,6 +24,5 @@ var divideString = function (s, k, fill) {
     }
 
     return arr
-    console.log(arr)
 
 };
