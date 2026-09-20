@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1108-defanging-an-ip-address](https://github.com/mohammednoorulameen/Leetcodee/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1844-replace-all-digits-with-characters](https://github.com/mohammednoorulameen/Leetcodee/tree/main/1844-replace-all-digits-with-characters/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/mohammednoorulameen/Leetcodee/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/mohammednoorulameen/Leetcodee/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
