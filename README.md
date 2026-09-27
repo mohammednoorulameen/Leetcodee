@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/mohammednoorulameen/Leetcodee/tree/main/0075-sort-colors/) | Medium |
 | [0496-next-greater-element-i](https://github.com/mohammednoorulameen/Leetcodee/tree/main/0496-next-greater-element-i/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/mohammednoorulameen/Leetcodee/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/mohammednoorulameen/Leetcodee/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/mohammednoorulameen/Leetcodee/tree/main/0075-sort-colors/) | Medium |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/mohammednoorulameen/Leetcodee/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
